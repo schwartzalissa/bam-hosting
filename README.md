@@ -1,2 +1,3 @@
-## BAM File  
-Due to file size, the BAM file is available [here](<insert link>).
+## BAM File
+
+Due to file size, the BAM file is available [here](https://drive.google.com/your-share-link).
